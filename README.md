@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KennyGr8, an aspiring engineer, web developer, and creative problem-solver.  
 - 👀 I’m passionate about building innovative solutions in web development, AI, and community engagement.  
-- 🌱 I’m currently honing my skills in JavaScript, C++, and Java, with experience in HTML, CSS, MERN Stack, and Git.  
-- 💻 My expertise includes creating responsive websites, dynamic user interfaces, and community-driven platforms like the Forever Connect Community (FCC).  
+- 🌱 I’m currently honing my skills in JavaScript, Java, with experience in HTML, CSS, MERN Stack, PERN Stack, Reactjs, Nextjs and Git.
+- 💻 My expertise includes creating responsive websites, dynamic user interfaces, and community-driven platforms like NexaAuth.  
 - 💞️ I’m open to collaborating on projects that inspire, educate, and empower others through technology.
   
 - 📫 Reach me at +2349018809895 or via [GitHub](https://github.com/KennyGr8).  
